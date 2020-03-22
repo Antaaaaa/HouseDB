@@ -1,0 +1,3 @@
+db.url = jdbc:mysql://localhost:3306/House?useUnicode=true&serverTimezone=UTC
+db.login = MY_LOGIN
+db.password = I_WONT_SAY_YOU_MY_PASSWORD
