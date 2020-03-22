@@ -1,2 +1,2 @@
 # HouseDB
-![picture](schema/ERR Diagram.png)
+![picture](schema/EER Diagram.png)
